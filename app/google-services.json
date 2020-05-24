@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "859415506372",
+    "firebase_url": "https://atmtest-d4efd.firebaseio.com",
+    "project_id": "atmtest-d4efd",
+    "storage_bucket": "atmtest-d4efd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859415506372:android:4ccd152874f2666a644891",
+        "android_client_info": {
+          "package_name": "com.home.atm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859415506372-gels8n6t0rotjg33717ldo13t7t2s49r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ101oJw4lIwCeCdESz7qzxj5PglLnIEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859415506372-gels8n6t0rotjg33717ldo13t7t2s49r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
